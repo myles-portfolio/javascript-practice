@@ -17,7 +17,7 @@ export const characterData = [
       age: 57,
       heightInches: 69,
       weightPounds: 206,
-      eyes: 'Gold-flecked Green',
+      eyes: 'Green-flecked Gold',
       skin: 'Bronze',
       hair: 'Brown',
     }
@@ -217,7 +217,7 @@ export const characterData = [
     origin: {
       hasSiblings: false,
       familyLifestyle: 'Comfortable',
-      childhoodMemories: 'Ordinary',  
+      childhoodMemories: 'Happy',  
     },
     alignment: 'Lawful Good',
     physicalCharacteristics: {

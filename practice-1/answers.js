@@ -26,12 +26,4 @@ export const answers = {
   10: 'Tana "Ku" Quillsharpener, Kilvar Glanhig, Haseid Pashar, Kiirith Shestendeliath, Gorstag Amblecrown',
   11: 1209,
   12: [ 'Cleric', 'Druid', 'Warlock' ],
-  13: [],
-  14: [],
-  15: [],
-  16: [],
-  17: [],
-  18: [],
-  19: [],
-  20: [],
 }
