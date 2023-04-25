@@ -1,0 +1,15 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "Practice using various methods to solve problems relating to random datasets.",
+  "type": "module",
+  "main": "README.md",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mylesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
